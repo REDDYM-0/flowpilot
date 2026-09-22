@@ -1,3 +1,4 @@
+ HEAD
 # FlowPilot – AI Productivity Execution Agent
 
 > **Transform natural-language goals into prioritized action roadmaps, optimized time-blocked schedules, distraction-free focus sessions, and adaptive execution velocity.**
@@ -149,3 +150,7 @@ npm run preview
 6. **Adapt My Plan**: Mark a task as *Delayed* or click **Adapt Plan** to demonstrate real-time schedule rebalancing.
 7. **Analytics**: Visit the Analytics tab to view real-time charts calculated from your session logs.
 8. **AI Assistant**: Open the AI Assistant drawer and click *"What should I work on next?"* to show context grounding.
+
+# flowpilot
+FlowPilot is an AI-powered productivity platform that converts natural-language goals into actionable tasks, optimized schedules, focus sessions, and measurable progress. It helps users plan, prioritize, execute, and adapt their work through a unified productivity workflow.
+ 6e8ca58106ee1afee61c7597f80d35c5b1babb3f
